@@ -1,0 +1,8 @@
+------------  VERSION 1.0.1  ------------
+Fix: URL for the social icon on Pop Up Newsletter
+Fix: MailChimp on Pop Up Newsletter
+Fix: Menu on Mobile
+Fix: Minicart on Mobile
+
+------------  VERSION 1.0.0  ------------
+! Initial Release
